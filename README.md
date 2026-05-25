@@ -10,7 +10,7 @@ Mini Project Analog Line Follower
 
 Truth-Table
 
-1 คือกรณีที่เซนเซอร์เจอสีคำ
+1 คือกรณีที่เซนเซอร์เจอสีดำ
 
 <img width="289" height="515" alt="Truth-Table" src="https://github.com/user-attachments/assets/501aabb5-b993-4167-9916-61a1750d4303" />
 
